@@ -1,2 +1,2 @@
-# webappbuilder_EditSymbology
-Webappbuilder widget for users to edit layers symbologies
+# Custom webappbuilder widgets
+List of my custom webappbuilder widgets
